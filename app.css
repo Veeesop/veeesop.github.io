@@ -1,0 +1,22 @@
+.work {
+  border-radius: 25px;
+  padding: 30px;
+  margin: 15px;
+}
+
+h4 {
+  color: #00afb9;
+}
+
+.nav-link {
+  color: #00afb9;
+}
+
+.grow img{
+  transition: 1s ease;
+  }
+  
+  .grow img:hover{
+  transform: scale(1.2);
+  transition: 1s ease;
+  }
